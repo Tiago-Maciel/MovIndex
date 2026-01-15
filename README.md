@@ -1,4 +1,4 @@
-# Filmes - Desafio Dex Android
+# Filmes - Desafio Android
 
 Aplicativo Android desenvolvido em Kotlin com Jetpack Compose para exibir informações sobre filmes utilizando a API do The Movie DB.
 
