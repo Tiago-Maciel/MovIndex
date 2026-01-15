@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Claquete vermelho -->
+    <!-- Parte inferior horizontal (base) -->
+    <path
+        android:fillColor="#DC143C"
+        android:pathData="M20,70 L88,70 L88,85 L20,85 Z" />
+    
+    <!-- Parte vertical esquerda -->
+    <path
+        android:fillColor="#DC143C"
+        android:pathData="M20,25 L35,25 L35,70 L20,70 Z" />
+    
+    <!-- Parte vertical direita (fechando o claquete) -->
+    <path
+        android:fillColor="#DC143C"
+        android:pathData="M73,25 L88,25 L88,70 L73,70 Z" />
+    
+    <!-- Linhas decorativas brancas no claquete -->
+    <!-- Linha horizontal na base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,75 L83,75 L83,78 L25,78 Z" />
+    
+    <!-- Linhas verticais decorativas -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,30 L31,30 L31,65 L28,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M77,30 L80,30 L80,65 L77,65 Z" />
+    
+    <!-- Estrela decorativa no centro -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,40 L56,45 L61,45 L57,48 L59,53 L54,50 L49,53 L51,48 L47,45 L52,45 Z" />
+</vector>
